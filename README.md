@@ -8,7 +8,7 @@ Celem projektu jest ocena skuteczności algorytmu ALS w rekomendowaniu zadań ed
 
 ## Opis zbioru danych
 
-Dane dostępne na Kaggle: [danielgruszkowski/data-to-als-recommend-system](https://www.kaggle.com/datasets/danielgruszkowski/data-to-als-recommend-system)
+Dane dostępne na Kaggle: [[danielgruszkowski/data-to-als-recommend-system](https://www.kaggle.com/datasets/danielgruszkowski/data-to-als-recommend-system)]
 
 Po pobraniu należy umieścić pliki w katalogu `big_data/`.
 
