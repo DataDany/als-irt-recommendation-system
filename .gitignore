@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+
+# Data files — ignoruj zawartość, zachowaj strukturę katalogów
+big_data/**
+!big_data/.gitkeep
+!big_data/csv/
+big_data/csv/**
+!big_data/csv/.gitkeep
+!big_data/results/
+big_data/results/**
+!big_data/results/.gitkeep
+data_generator/__pycache__/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs & temp
+*.log
+*.tmp
+spark-warehouse/
+derby.log
+metastore_db/
